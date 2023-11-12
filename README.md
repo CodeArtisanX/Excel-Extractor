@@ -52,4 +52,4 @@ The MainTest class provides a simple example of how to use the Extractor utility
 
 ## License
 
-This project is licensed under the [Apache-2.0 license] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [Apache-2.0 license] - see the [LICENSE](LICENSE) file for details.
